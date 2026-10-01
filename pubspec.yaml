@@ -1,0 +1,8 @@
+name: entitler
+description: Official Entitler SDK for Dart and Flutter (not yet available)
+version: 0.0.1
+homepage: https://entitler.co
+repository: https://github.com/entitlerhq/entitler-dart
+
+environment:
+  sdk: ^3.0.0
